@@ -1,1 +1,4 @@
-# This is a repo to keep SpringBoot learning note
+## SpringBoot Note Book:
+
+### Maven:
+[maven guide](https://spring.io/guides/gs/maven/)
