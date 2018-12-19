@@ -5,6 +5,8 @@
 
 ### Concept
 [Intro to Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)
+[Java Bean]()
+
 
 ### Start SpringBoot
 [Spring Boot Tutorial – Bootstrap a Simple Application](https://www.baeldung.com/spring-boot-start)
