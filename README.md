@@ -4,8 +4,8 @@
 [maven guide](https://spring.io/guides/gs/maven/)
 
 ### Concept
-[Intro to Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)
-[Java Bean]()
+[Intro to Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)  
+[Java Bean](https://github.com/PerrySong/LearnSpringBoot/blob/master/JavaBean.md)
 
 
 ### Start SpringBoot
