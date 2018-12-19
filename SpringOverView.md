@@ -1,9 +1,9 @@
-## Why Spring:
+## Why Spring:  
 
-Light weight development with Java POJOs (Plain-Old-Java-Objects)  
-Dependency injection to promote loose coupling  
-Declarative programming with Aspect-Oriented-Programming (AOP)  
-Minimize boilerplate Java code  
+* Light weight development with Java POJOs (Plain-Old-Java-Objects)   
+* Dependency injection to promote loose coupling  
+* Declarative programming with Aspect-Oriented-Programming (AOP)  
+* Minimize boilerplate Java code  
 
 
 ## Core Containers:
