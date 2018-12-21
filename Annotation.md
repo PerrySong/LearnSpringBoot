@@ -1,6 +1,6 @@
-[Embedded && Embedable](# Embedded && Embedable)
+[Embedded & Embedable](#Embedded & Embedable)
 
-# Embedded && Embedable
+# Embedded & Embedable
 The @Embeddable annotation allows to specify a class whose instances are stored as intrinsic part of the owning entity.   
 This annotation has no attributes.
 
