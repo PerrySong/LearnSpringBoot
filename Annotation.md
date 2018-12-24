@@ -1,5 +1,7 @@
 [Embedded & Embedable](#Embedded%20&%20Embedable)
 
+[Spring Core Annotation](https://www.baeldung.com/spring-core-annotations)
+
 # Embedded & Embedable
 The @Embeddable annotation allows to specify a class whose instances are stored as intrinsic part of the owning entity.   
 This annotation has no attributes.
