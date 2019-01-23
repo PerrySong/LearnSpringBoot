@@ -12,6 +12,7 @@
 * [maven guide](https://spring.io/guides/gs/maven/)
 
 ### Concept
+* [Java Annotation](http://tutorials.jenkov.com/java/annotations.html)  
 * [Spring Overview](https://github.com/PerrySong/LearnSpringBoot/blob/master/SpringOverView.md) 
 * [Intro to Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring) 
 * [Java Bean](https://github.com/PerrySong/LearnSpringBoot/blob/master/JavaBean.md) 
@@ -26,6 +27,9 @@
 * [Spring Boot Docker](https://spring.io/guides/gs/actuator-service/)
 * [Building a RESTful Web Service with Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/)
 * [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
+
+### Tools:
+[Jackson JSON Tutorial](https://www.baeldung.com/jackson)   
 
 
 ### Practice Projects
