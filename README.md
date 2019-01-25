@@ -21,7 +21,7 @@
 
 ### Spring  
 * [Build a REST API with Spring and Java Config](https://www.baeldung.com/building-a-restful-web-service-with-spring-and-java-based-configuration)
-
+* [@Controller vs @RestController](https://www.baeldung.com/spring-controller-vs-restcontroller)   
 ### SpringBoot
 * [Spring Boot Tutorial – Bootstrap a Simple Application](https://www.baeldung.com/spring-boot-start)
 * [Spring Boot Docker](https://spring.io/guides/gs/actuator-service/)
